@@ -1,6 +1,9 @@
 Debug/
 *.clw
 *.dsp
+*.dsw
+*.rc
 *.ncb
 *.opt
 *.plg
+RCa15160
